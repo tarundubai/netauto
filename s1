@@ -1,0 +1,15 @@
+mgmt_id 10.0.0.300
+sdn_controller ip : 10.2.2.2
+vlan
+ green
+ id
+
+ green
+ id
+ ports
+ 20
+ 10
+ 30
+ vlan finshed
+ auth_server : 10.0.0.100
+ DDDDDDD
